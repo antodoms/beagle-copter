@@ -1,0 +1,1 @@
+This Code is used to activate PWM in BBB and specially coded to control ESC using BBB. Currently i have written the code for 4 PWM's at a time. You can increase the number of PWM outputs using PRU's
