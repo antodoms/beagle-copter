@@ -1,0 +1,1 @@
+This is a MPU6050 driver code for getting Yaw, Pitch and Roll. MPU6050 is a 3-axis-Accelerometer + 3-axis-Gyroscope Module that uses I2C protocol. This code is Migrated from the MPU6050 C driver code to python. 
