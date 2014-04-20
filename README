@@ -1,13 +1,30 @@
 Beagle Copter
 --------------
 
-Beagle-copter is a Quadcopter project in python using Beaglebone black as a Flight controller. In this project I will be working on Beaglebone Black running on Angstrom OS with linux 3.8.13 kernel. 
+Beagle-copter is a Quadcopter project in c++ using Beaglebone black as a Flight controller. In this project I will be working on Beaglebone Black running on Angstrom OS with linux 3.8.13 kernel. 
 
 
-Project Guide : Cyriac M Odackal
+Projects That I Refered for Beagle-Copter
+-----------------------------------------
+Xu Shirui - Beagle-fly Project
 
-Project Team  :
+Build your own Quadcopter - Ghowen
 
+PRU Assembly Instructions - Texas Instruments
+
+
+Final Presentation for the Project can be found at http://antodominic.com/beagle-copter/
+
+
+
+
+Project Guide
+-------------
+Cyriac M Odackal
+
+
+Project Team
+---------------
 Anto Dominic
 Dalbin Jose
 Vishak Baby
