@@ -10,7 +10,7 @@ Beagle-copter is a Quadcopter project in c++ using Beaglebone black as a Flight 
 * PRU Assembly Instructions - Texas Instruments
 
 
-# [Final Presentation for the Project](http://antodominic.com/beagle-copter/)
+# [Final Presentation for the Project](http://antodominic.com.au/beagle-copter/)
 
 
 # How to run this Code on BBB
@@ -34,6 +34,6 @@ Cyriac M Odackal
 
 
 ## Project Team
-Anto Dominic
-Dalbin Jose
-Vishak Baby
+* Anto Dominic
+* Dalbin Jose
+* Vishak Baby
