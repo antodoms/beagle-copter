@@ -1,23 +1,20 @@
-Beagle Copter
---------------
+# Beagle Copter
 
 Beagle-copter is a Quadcopter project in c++ using Beaglebone black as a Flight controller. In this project I will be working on Beaglebone Black running on Angstrom OS with linux 3.8.13 kernel. 
 
 
-Projects That I Refered for Beagle-Copter
------------------------------------------
-Xu Shirui - Beagle-fly Project
+# Projects That I Refered for Beagle-Copter
 
-Build your own Quadcopter - Ghowen
-
-PRU Assembly Instructions - Texas Instruments
+* Xu Shirui - Beagle-fly Project
+* Build your own Quadcopter - Ghowen
+* PRU Assembly Instructions - Texas Instruments
 
 
-Final Presentation for the Project can be found at http://antodominic.com/beagle-copter/
+# [Final Presentation for the Project](http://antodominic.com/beagle-copter/)
 
 
-How to run this Code on BBB
----------------------------
+# How to run this Code on BBB
+
 1) Clone Beagle-copter into your BBB 
 $ git clone https://github.com/antodoms/beagle-copter.git
 
@@ -32,13 +29,11 @@ $ ./controls
 
 
 
-Project Guide
--------------
+## Project Guide
 Cyriac M Odackal
 
 
-Project Team
----------------
+## Project Team
 Anto Dominic
 Dalbin Jose
 Vishak Baby
